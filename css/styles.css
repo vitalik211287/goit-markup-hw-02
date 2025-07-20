@@ -35,16 +35,17 @@ button {
   background: var(--background-color);
 }
 
-.header-logo {
-  font-family: "Raleway";
+.header-logo-studio {
+  font-family: "Raleway", sans-serif;
   font-weight: bold;
   font-size: 18px;
+  text-transform: uppercase;
   /* line-height: 1.17; */
   letter-spacing: 0.03em;
   color: var(--h-color);
 }
 
-.header-logo-web {
+.header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: bold;
   font-size: 18px;
@@ -160,8 +161,8 @@ button {
   height: 312px;
 }
 
-.footer-logo {
-  font-family: "Raleway";
+.footer-logo-studio {
+  font-family: "Raleway", sans-serif;
   font-weight: bold;
   font-size: 18px;
   /* line-height: 1.17; */
