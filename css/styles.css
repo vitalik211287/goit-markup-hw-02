@@ -146,8 +146,10 @@ button {
 .our-team-title {
   font-weight: bold;
   font-size: 36px;
-  line-height: 1.1;
-  letter-spacing: 0.03em;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
   color: var(--h-color);
 }
 
@@ -163,6 +165,10 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--paragraph- color);
+}
+
+.team-list{
+  background-color: var(--background-color)
 }
 
 /*footer*/
