@@ -123,7 +123,7 @@ button {
 } */
 
 .advantage-title {
-  font-weight: bold;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -131,9 +131,9 @@ button {
   margin-bottom: 10px;
 }
 .advantage-after-title {
-  font-size: 14px;
-  line-height: 24px;
-  letter-spacing: 0.03em;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: var(--paragraph-color);
 }
 
