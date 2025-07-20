@@ -172,7 +172,7 @@ button {
 
 .footer-after-title {
   font-size: 14px;
-  line-height: 24px;
-  letter-spacing: 0.03em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: var(--logo-color);
 }
