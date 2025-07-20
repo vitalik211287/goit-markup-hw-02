@@ -86,7 +86,6 @@ button {
 /* hero*/
 
 .hero {
-  height: 600px;
   background: var(--h-color);
 }
 
@@ -168,7 +167,6 @@ button {
 
 .footer-background {
   background: var(--h-color);
-  height: 312px;
 }
 
 .footer-logo-studio {
