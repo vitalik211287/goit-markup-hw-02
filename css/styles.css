@@ -40,7 +40,7 @@ button {
   font-weight: bold;
   font-size: 18px;
   text-transform: uppercase;
-  /* line-height: 1.17; */
+  line-height: 1.17;
   letter-spacing: 0.03em;
   color: var(--h-color);
 }
@@ -49,14 +49,14 @@ button {
   font-family: "Raleway", sans-serif;
   font-weight: bold;
   font-size: 18px;
-  /* line-height: 1.17; */
+  line-height: 1.17;
   letter-spacing: 0.03em;
   color: var(--accent-color);
 }
 .header-link {
   font-weight: 500;
   font-size: 16px;
-  /* line-height: 1.5; */
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--h-color);
 }
@@ -69,7 +69,7 @@ button {
 .header-address {
   font-weight: 400;
   font-size: 16px;
-  /* line-height: 1.5; */
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--paragraph-color);
 }
@@ -89,7 +89,7 @@ button {
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-  /* line-height: 1.07; */
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--background-color);
@@ -98,7 +98,7 @@ button {
 .hero-btn {
   font-weight: bold;
   font-size: 16px;
-  /* line-height: 1.5; */
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--background-color);
   background: #4d5ae5;
@@ -114,14 +114,14 @@ button {
 .advantage-title {
   font-weight: bold;
   font-size: 20px;
-  /* line-height: 1.2; */
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--h-color);
   margin-bottom: 10px;
 }
 .advantage-after-title {
   font-size: 14px;
-  /* line-height: 24px; */
+  line-height: 24px;
   letter-spacing: 0.03em;
   color: var(--paragraph-color);
 }
@@ -135,7 +135,7 @@ button {
 .our-team-title {
   font-weight: bold;
   font-size: 36px;
-  /* line-height: 1.1; */
+  line-height: 1.1;
   letter-spacing: 0.03em;
   color: var(--h-color);
 }
@@ -143,13 +143,13 @@ button {
 .subtitle {
   font-weight: 500;
   font-size: 20px;
-  /* line-height: 1.2; */
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--h-color);
 }
 .after-title {
   font-size: 16px;
-  /* line-height: 1.5; */
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--paragraph- color);
 }
@@ -165,14 +165,14 @@ button {
   font-family: "Raleway", sans-serif;
   font-weight: bold;
   font-size: 18px;
-  /* line-height: 1.17; */
+  line-height: 1.17;
   letter-spacing: 0.03em;
   color: var(--logo-color);
 }
 
 .footer-after-title {
   font-size: 14px;
-  /* line-height: 24px; */
+  line-height: 24px;
   letter-spacing: 0.03em;
   color: var(--logo-color);
 }
