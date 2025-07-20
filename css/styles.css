@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   background: var(--background-color);
   color: var(--paragraph-color);
 }
@@ -96,8 +96,6 @@ button {
 }
 
 .hero-btn {
-  width: 169px;
-  height: 56px;
   font-weight: bold;
   font-size: 16px;
   line-height: 1.5;
@@ -129,7 +127,6 @@ button {
   line-height: 24px;
   letter-spacing: 0.03em;
   color: var(--paragraph-color);
-  max-width: 270px;
 }
 
 /*our_team*/
@@ -181,5 +178,4 @@ button {
     line-height: 24px;
     letter-spacing: 0.03em;
     color: var(--logo-color);
-    max-width: 264px;
   }
