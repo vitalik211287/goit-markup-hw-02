@@ -4,6 +4,7 @@
   --accent-color: #4d5ae5;
   --background-color: #ffffff;
   --logo-color: #f4f4fd;
+  --focus-color: #404bbf;
 }
 
 body {
@@ -68,7 +69,7 @@ button {
 .header-link:hover,
 .header-link:focus,
 .header-link:active {
-  color: var(--accent-color);
+  color: var(--focus-color);
 }
 
 .header-address {
@@ -81,7 +82,7 @@ button {
 
 .header-address:hover,
 .header-address:focus {
-  color: var(--accent-color);
+  color: var(--focus-color);
 }
 
 /* hero*/
