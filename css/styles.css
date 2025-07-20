@@ -3,7 +3,7 @@
   --paragraph-color: #434455;
   --accent-color: #4d5ae5;
   --background-color: #ffffff;
-  --logo-color:  #F4F4FD;
+  --logo-color: #f4f4fd;
 }
 
 body {
@@ -106,11 +106,10 @@ button {
 
 /*advantage */
 
-.advantage-invisible {
+/* .advantage-invisible {
   display: none;
   justify-content: space-between;
-  margin-left: 8px;
-}
+} */
 
 .advantage-title {
   font-weight: bold;
@@ -152,28 +151,28 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--paragraph-  color);
+  color: var(--paragraph- color);
 }
 
 /*footer*/
-  
-  .footer-background {
-    background: var(--h-color);
-    height: 312px;
-  }
-  
-  .footer-logo {
-   font-family: "Raleway";
+
+.footer-background {
+  background: var(--h-color);
+  height: 312px;
+}
+
+.footer-logo {
+  font-family: "Raleway";
   font-weight: bold;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color:  var(--logo-color);
-  }
+  color: var(--logo-color);
+}
 
-  .footer-after-title{
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 0.03em;
-    color: var(--logo-color);
-  }
+.footer-after-title {
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: var(--logo-color);
+}
