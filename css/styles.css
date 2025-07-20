@@ -12,6 +12,10 @@ body {
   color: var(--paragraph-color);
 }
 
+address{
+  font-style: normal 
+}
+
 button {
   cursor: pointer;
   /* padding: 0; */
